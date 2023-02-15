@@ -1,6 +1,6 @@
 /*
 
-Data cleaning in SQL Queries
+Data cleaning in Microsoft SQL Queries
 
 */
 
