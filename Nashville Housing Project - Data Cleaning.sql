@@ -108,7 +108,7 @@ FROM PortfolioProjects..NashvilleHousing
 
 ----------------------------------------------------------------------------------------
 
--- Change Y and N to Yes and No in "Sold as VacanT" field
+-- Change Y and N to Yes and No in "Sold as Vacant" column
 
 --SELECT DISTINCT SoldAsVacant, COUNT(SoldAsVacant)
 --FROM PortfolioProjects..NashvilleHousing
